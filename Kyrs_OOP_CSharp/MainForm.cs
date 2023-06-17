@@ -43,7 +43,7 @@ namespace Kyrs_OOP_CSharp
         {
             System.Diagnostics.ProcessStartInfo psi = new System.Diagnostics.ProcessStartInfo();
             psi.UseShellExecute = true;
-            psi.FileName = "https://github.com/Quszlet/Kyrs_OOP_CSharp";
+            psi.FileName = "https://github.com/artyomlogvin/Course_OOP";
             System.Diagnostics.Process.Start(psi);
         }
     }

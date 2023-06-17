@@ -134,10 +134,10 @@
             linkLabel2.Location = new Point(148, 230);
             linkLabel2.Margin = new Padding(2, 0, 2, 0);
             linkLabel2.Name = "linkLabel2";
-            linkLabel2.Size = new Size(252, 15);
+            linkLabel2.Size = new Size(257, 15);
             linkLabel2.TabIndex = 8;
             linkLabel2.TabStop = true;
-            linkLabel2.Text = "https://github.com/Quszlet/Kyrs_OOP_CSharp";
+            linkLabel2.Text = "https://github.com/artyomlogvin/Course_OOP";
             linkLabel2.LinkClicked += linkLabel2_LinkClicked_1;
             // 
             // MainForm
